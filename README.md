@@ -3,7 +3,7 @@
 ### Salut, je suis Oumaima 
 
 🎓 Étudiante en Master **Systèmes de Réseaux et Cloud Computing** — Faculté des Sciences de Sfax
-🔐 Passionnée par la **cybersécurité**, l'**administration réseau** et l'**IA appliquée à la sécurité**
+ Passionnée par la **cybersécurité**, l'**administration réseau** et l'**IA appliquée à la sécurité**
 📍 Sfax, Tunisie
 
 ---
