@@ -7,7 +7,21 @@
 📍 Sfax, Tunisie
 
 ---
+## 💼 Expérience professionnelle
 
+**Stagiaire d'Été – Supervision réseau** · REF IT Engineering and Consulting, Sfax · *Août 2026*
+- Déploiement et configuration de Zabbix (protocole SNMP) pour la supervision réseau
+- Mise en place de tableaux de bord, alertes et déclencheurs de surveillance
+
+**Stagiaire – Projet de Fin d'Études** · STIM, Sfax · *Février – Mai 2025*
+- Analyse des besoins système et réseau de l'entreprise
+- Développement de solutions IA/IoT adaptées aux systèmes réseau existants
+
+**Stagiaire d'Été – Développement Web** · PRESTACODE, Sfax · *Août 2024*
+- Développement de fonctionnalités web avec Angular et Spring Boot
+- Collaboration avec l'équipe selon des pratiques agiles modernes
+
+--- 
 ### 🛠️ Compétences techniques
 
 **Réseaux & Systèmes**
