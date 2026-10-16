@@ -43,6 +43,7 @@
 
 ### 📌 Projets en avant
 
+- ☁️ [**CloudManager**](https://github.com/oumaimaassili/CloudManager) — Plateforme de gestion et de supervision d'une infrastructure Cloud : modélisation UML complète selon le Processus Unifié
 - 🤖 [**ia-cyberdefense-mcp**](https://github.com/oumaimaassili/ia-cyberdefense-mcp) — Agent IA local pour la surveillance réseau et la détection d'attaques via MCP/LLaMA
 - 🔓 [**simulation-hydra-securite**](https://github.com/oumaimaassili/simulation-hydra-securite) — Simulation d'attaques par force brute et analyse de sécurité
 - 🌱 [**irrigation-iot**](https://github.com/oumaimaassili/irrigation-iot) — Système d'irrigation automatique intelligent basé sur capteurs IoT
