@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-### Salut, je suis Oumaima 
+### Salut, je suis Oumaima
 
 🎓 Étudiante en Master **Systèmes de Réseaux et Cloud Computing** — Faculté des Sciences de Sfax
- Passionnée par la **cybersécurité**, l'**administration réseau** et l'**IA appliquée à la sécurité**
+Passionnée par la **cybersécurité**, l'**administration réseau** et l'**IA appliquée à la sécurité**
 📍 Sfax, Tunisie
 
 ---
+
 ## 💼 Expérience professionnelle
 
 **Stagiaire d'Été – Supervision réseau** · REF IT Engineering and Consulting, Sfax · *Août 2026*
@@ -21,7 +22,8 @@
 - Développement de fonctionnalités web avec Angular et Spring Boot
 - Collaboration avec l'équipe selon des pratiques agiles modernes
 
---- 
+---
+
 ### 🛠️ Compétences techniques
 
 **Réseaux & Systèmes**
@@ -30,8 +32,11 @@
 **Cybersécurité**
 `Analyse de vulnérabilités` `Tests d'intrusion` `Kali Linux` `Hydra`
 
-**Cloud & DevOps**
-`Docker` `Conteneurisation` `Fondamentaux Cloud` `Git`
+**☁️ Cloud Computing**
+- **Modèles de services** : IaaS, PaaS, SaaS
+- **Virtualisation et conteneurisation** : machines virtuelles, Docker
+- **Plateformes Cloud** : AWS, Azure, OpenStack (notions)
+- **Supervision d'infrastructure Cloud** : suivi des ressources, disponibilité et performances
 
 **IA & Automatisation**
 `MCP (Model Context Protocol)` `FastMCP` `LLaMA` `Agents basés sur LLM`
@@ -51,8 +56,40 @@
 ---
 
 ### 📜 Certifications
+
 - CCNA 1 – Introduction to Networks (Cisco)
 
+---
+
+### ⚙️ DevOps, Git & GitHub
+
+**Versioning & collaboration**
+- **Git / GitHub** : gestion de versions, branches, pull requests, travail collaboratif et documentation des projets
+
+**CI/CD (intégration et déploiement continus)**
+- **GitHub Actions / GitLab CI/CD** : automatisation des tests, de la compilation et du déploiement
+- **Jenkins** : création de pipelines d'intégration continue
+
+**Conteneurisation & orchestration**
+- **Docker / Docker Compose** : conteneurisation d'applications et d'environnements multi-services
+- **Kubernetes** : déploiement et orchestration de conteneurs (pods, services, déploiements)
+- **Helm** : gestion et packaging des applications Kubernetes
+
+**Infrastructure as Code & automatisation**
+- **Ansible** : automatisation de la configuration et du déploiement de serveurs
+- **Terraform** : provisionnement d'infrastructure Cloud sous forme de code
+- **Bash / Python** : scripts d'automatisation et d'administration système
+
+**Supervision & monitoring**
+- **Zabbix (SNMP)** : supervision réseau, tableaux de bord, alertes et déclencheurs
+- **Prometheus / Grafana** : collecte de métriques et visualisation de l'état des services
+
+**Systèmes**
+- **Linux** : administration système, ligne de commande, gestion des services
+
+---
+
 ### 📬 Me contacter
+
 📧 assilioumaima47@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/assili-oumaima)
